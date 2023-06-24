@@ -1,0 +1,43 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "learn react",
+            "description": "lorem xzckjsd asdjsds djask",
+            "img": "img/img"
+        },
+        {
+            "id": 2,
+            "title": "learn php",
+            "description": "lorem xzckjsd asdjsds djask",
+            "img": "img/img"
+        },
+        {
+            "id": 3,
+            "title": "learn sass",
+            "description": "lorem xzckjsd asdjsds djask",
+            "img": "img/img"
+        },
+        {
+            "id": 4,
+            "title": "learn js",
+            "description": "lorem xzckjsd asdjsds djask",
+            "img": "img/img"
+        },
+        {
+            "id": 5,
+            "title": "learn html",
+            "description": "lorem xzckjsd asdjsds djask",
+            "img": "img/img"
+        },
+        {
+            "id": 6,
+            "title": "learn css",
+            "description": "lorem xzckjsd asdjsds djask",
+            "img": "img/img"
+        }
+    ],
+    "users": [
+        
+    ]
+}
